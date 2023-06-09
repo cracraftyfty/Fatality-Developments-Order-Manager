@@ -1,0 +1,44 @@
+{
+    "1068027498090205204": {
+        "title": "Fatality Developments - Custom Orders",
+        "type": "rich",
+        "description": "Select the desired option below to make an Order or if you have an enquiry!",
+        "url": "https://discord.com/channels/868366789476745257/1058335634902765639/1066577192659722310",
+        "timestamp": null,
+        "color": 261891,
+        "fields": [],
+        "thumbnail": {
+            "url": "https://cdn.discordapp.com/icons/868366789476745257/19b9dd18348db203000efd3843e46af9.webp",
+            "proxyURL": "https://images-ext-1.discordapp.net/external/3x80J_GBShoVknW4eeD4yeVld2OrjPDkNtqrWzPGL04/https/cdn.discordapp.com/icons/868366789476745257/19b9dd18348db203000efd3843e46af9.webp",
+            "height": 128,
+            "width": 128
+        },
+        "image": null,
+        "author": null,
+        "footer": {
+            "text": "Fatality Developments",
+            "icon_url": "https://media.discordapp.net/attachments/1057638851994189934/1058319794702667817/Logo.png?width=965&height=910"
+        }
+    },
+    "1068030428734292049": {
+        "title": "Fatality Developments - Premade Orders",
+        "type": "rich",
+        "description": "Select the desired option below to make an Order or if you have an enquiry!",
+        "url": "https://discord.com/channels/868366789476745257/1058335634902765639/1066577192659722310",
+        "timestamp": null,
+        "color": 261891,
+        "fields": [],
+        "thumbnail": {
+            "url": "https://cdn.discordapp.com/icons/868366789476745257/19b9dd18348db203000efd3843e46af9.webp",
+            "proxyURL": "https://images-ext-1.discordapp.net/external/3x80J_GBShoVknW4eeD4yeVld2OrjPDkNtqrWzPGL04/https/cdn.discordapp.com/icons/868366789476745257/19b9dd18348db203000efd3843e46af9.webp",
+            "height": 128,
+            "width": 128
+        },
+        "image": null,
+        "author": null,
+        "footer": {
+            "text": "Fatality Developments",
+            "icon_url": "https://media.discordapp.net/attachments/1057638851994189934/1058319794702667817/Logo.png?width=965&height=910"
+        }
+    }
+}

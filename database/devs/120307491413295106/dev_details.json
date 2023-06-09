@@ -1,0 +1,25 @@
+{
+    "details": {
+        "tag": "Assuage#1307",
+        "id": "120307491413295106"
+    },
+    "add_logs": {
+        "added_by": {
+            "id": "228691082878255104",
+            "tag": "_Marc_us__#5523"
+        },
+        "added_at": ""
+    },
+    "ownedItems": [
+        "1% Buckle Jeans",
+        "1% Chain",
+        "1% Ring",
+        "Sons Of Anarchy MC San Andreas"
+    ],
+    "payment": {
+        "bsb": "062-692",
+        "acc_number": "73252192",
+        "paypal": "https://paypal.me/assuagedevelopments"
+    },
+    "dev_category": "1054686541869502524"
+}

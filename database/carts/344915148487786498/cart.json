@@ -1,0 +1,52 @@
+{
+    "details": {
+        "owner_discordID": "344915148487786498",
+        "owner_discordTag": "Craft#6739",
+        "time_created": "11-05-2023 | 13:31:40"
+    },
+    "cart": {
+        "Angels Of Death MC San Andreas": {
+            "qty": 1,
+            "price": 100,
+            "dir": "premade/pre-order_packages/premade_mc/Angels Of Death MC San Andreas"
+        },
+        "The Lost MC Blaine County": {
+            "qty": 1,
+            "price": 100,
+            "dir": "premade/pre-order_packages/premade_mc/The Lost MC Blaine County"
+        },
+        "The Lost MC Australia": {
+            "qty": 1,
+            "price": 100,
+            "dir": "premade/pre-order_packages/premade_mc/The Lost MC Australia"
+        },
+        "Sons Of Anarchy MC San Andreas": {
+            "qty": 1,
+            "price": 100,
+            "dir": "premade/pre-order_packages/premade_mc/Sons Of Anarchy MC San Andreas"
+        }
+    },
+    "devID": {
+        "280931738845184000": [
+            "Angels Of Death MC San Andreas"
+        ],
+        "228691082878255104": [
+            "The Lost MC Blaine County",
+            "The Lost MC Australia"
+        ],
+        "120307491413295106": [
+            "Sons Of Anarchy MC San Andreas"
+        ]
+    },
+    "invoiceMsg": [
+        "1106061139080659024",
+        "1106067286063853638",
+        "1106067288010014740",
+        "1113350968684318720",
+        "1113350970680803449",
+        "1113350972744405002",
+        "1113354614985736192",
+        "1113354616852205569",
+        "1113354619746263090"
+    ]
+}

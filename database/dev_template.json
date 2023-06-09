@@ -1,0 +1,20 @@
+{
+    "details": {
+        "tag": "",
+        "id": ""
+    },
+    "add_logs": {
+        "added_by": {
+            "id": "",
+            "tag": ""
+        },
+        "added_at": ""
+    },
+    "ownedItems": [],
+    "payment": {
+        "bsb": 0,
+        "acc_number": 0,
+        "paypal": ""
+    },
+    "dev_category": ""
+}

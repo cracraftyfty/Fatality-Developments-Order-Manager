@@ -1,0 +1,74 @@
+{
+    "guild_ID": "868366789476745257",
+    "emotes": {
+        "check": "<a:dpscheck:979699381659910214>",
+        "wrong": "<a:dpswrong:979699382091927655>",
+        "loading": "<a:dpsload:979699380384845834>",
+        "warn": "<:dpserror:979699379512426536>",
+        "blue_beacon": "<a:abort:980822891144839248>",
+        "red_beacon": "<a:STOP:980821755813842974>"
+    },
+    "checkoutCounter": 1,
+    "slash_cmd_permissions": {},
+    "categories": {
+        "order_clothing": "1066204089790251068",
+        "order_interior": "1054667010728017960",
+        "order_vehicle": "1054687319036268594",
+        "order_script": "1066204089790251068",
+        "order_gfx": "1066204089790251068",
+        "ticket_general": "1066204089790251068",
+        "pre-order_accessories": "1066215237142970398",
+        "pre-order_packages": "1066215142456557659"
+    },
+    "payment_confirmation_channels": {
+        "120307491413295106": "1082923178516549642",
+        "154491726357200896": "1082923178516549642",
+        "228691082878255104": "1082923178516549642",
+        "280931738845184000": "1082923178516549642",
+        "302405205839052812": "1082923178516549642",
+        "344915148487786498": "1082923178516549642",
+        "364340262975176704": "1082923178516549642",
+        "393379814662340609": "1082923178516549642",
+        "503388586465296407": "1082923178516549642",
+        "952619550967480390": "1082923178516549642"
+    },
+    "job_roles": {
+        "order_clothing": "868391486625042453",
+        "order_interior": "1054401196829454356",
+        "order_vehicle": "1054648861148315648",
+        "order_script": "1061093725528395777",
+        "order_gfx": "868391486625042453",
+        "ticket_general": "868368721272533003",
+        "pre-order_accessories": "868391486625042453",
+        "pre-order_packages": "868391486625042453"
+    },
+    "orders": {
+        "premadeOptions": {
+            "pre-order_accessories": [
+                {
+                    "label": "⛓️ 1% Chains",
+                    "description": "View premade Chains!",
+                    "value": "premade_chains"
+                },
+                {
+                    "label": "💍 1% Rings",
+                    "description": "View premade Rings!",
+                    "value": "premade_rings"
+                },
+                {
+                    "label": "🪢 1% Belt Buckle",
+                    "description": "View premade Belt Buckles!",
+                    "value": "premade_belt-buckle"
+                }
+            ],
+            "pre-order_packages": [
+                {
+                    "label": "📦 Premade Packages",
+                    "description": "Order premade clothing packages and bikes here!",
+                    "value": "pre-order_packages"
+                }
+            ]
+        }
+    },
+    "ordercount": 3
+}
